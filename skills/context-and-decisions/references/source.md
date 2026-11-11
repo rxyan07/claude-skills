@@ -1,4 +1,4 @@
-# Source and adaptation
+﻿# Source and adaptation
 
 The active terminology-refinement workflow and compact glossary guidance are adapted from [Matt Pocock's domain-modeling skill](https://github.com/mattpocock/skills/tree/c55ee46073ed923f86ce59a5eb3b6d895095d1b7/skills/engineering/domain-modeling), pinned at `c55ee46073ed923f86ce59a5eb3b6d895095d1b7`, under the [MIT license](../LICENSE).
 

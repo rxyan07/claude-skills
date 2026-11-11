@@ -1,4 +1,4 @@
-# REGRESSION.md — Module Regression Ledger
+﻿# REGRESSION.md — Module Regression Ledger
 
 > After each relevant change, locate the changed module, run its acceptance command plus every required downstream command, and deliver only when all exit codes are green.
 > Refresh downstream relationships from reproducible repository evidence. Acceptance commands are the core asset; prefer reconciliation against external facts over weak mocks or assertions.

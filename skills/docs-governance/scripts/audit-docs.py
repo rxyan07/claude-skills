@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 """Deterministic documentation-governance audit for mechanically provable integrity failures."""
 
 from __future__ import annotations

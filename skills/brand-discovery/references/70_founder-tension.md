@@ -1,4 +1,4 @@
-# Module 70 — Founder Brand vs Organisation Brand
+﻿# Module 70 — Founder Brand vs Organisation Brand
 
 > **Frameworks:** Enns *Win Without Pitching* · Personal brand vs institutional
 > brand spectrum

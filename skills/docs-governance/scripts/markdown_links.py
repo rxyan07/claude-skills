@@ -1,4 +1,4 @@
-"""Small Markdown link parser used by the documentation-governance audit."""
+﻿"""Small Markdown link parser used by the documentation-governance audit."""
 
 from __future__ import annotations
 

@@ -1,4 +1,4 @@
-# Module 20 — Positioning
+﻿# Module 20 — Positioning
 
 > **Frameworks:** Dunford *Obviously Awesome* · Moore crossing-the-chasm template ·
 > Jobs-to-be-done lens

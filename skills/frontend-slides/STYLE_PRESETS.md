@@ -1,4 +1,4 @@
-# Style Presets Reference
+﻿# Style Presets Reference
 
 Curated visual styles for `frontend-slides`.
 

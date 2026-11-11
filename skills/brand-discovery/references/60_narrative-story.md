@@ -1,4 +1,4 @@
-# Module 60 — Narrative / Story
+﻿# Module 60 — Narrative / Story
 
 > **Frameworks:** Neumeier trueline · Brand story arc (context → conflict →
 > resolution → invitation) · Hero's journey (brand as guide, client as hero)

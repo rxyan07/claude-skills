@@ -1,4 +1,4 @@
-# Module 50 — Voice & Tone
+﻿# Module 50 — Voice & Tone
 
 > **Frameworks:** Brand voice spectrum (formal <-> casual, serious <-> playful,
 > distant <-> warm, conventional <-> irreverent) · Content-type tone matrix

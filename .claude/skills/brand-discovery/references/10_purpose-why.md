@@ -1,4 +1,4 @@
-# Module 10 — Purpose / Why
+﻿# Module 10 — Purpose / Why
 
 > **Frameworks:** Sinek Golden Circle · Lencioni organisational purpose
 >

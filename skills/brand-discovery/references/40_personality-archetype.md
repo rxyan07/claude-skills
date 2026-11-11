@@ -1,4 +1,4 @@
-# Module 40 — Personality & Archetype
+﻿# Module 40 — Personality & Archetype
 
 > **Frameworks:** Mark & Pearson 12 brand archetypes · J. Aaker 5 brand personality
 > dimensions (sincerity / excitement / competence / sophistication / ruggedness)

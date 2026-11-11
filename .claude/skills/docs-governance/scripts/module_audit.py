@@ -1,4 +1,4 @@
-"""Read-only evidence discovery for explicitly selected business modules."""
+﻿"""Read-only evidence discovery for explicitly selected business modules."""
 
 from __future__ import annotations
 

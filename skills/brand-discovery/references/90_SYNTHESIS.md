@@ -1,4 +1,4 @@
-# Module 90 — Master Brandbook (Synthesis)
+﻿# Module 90 — Master Brandbook (Synthesis)
 
 > **Frameworks:** Kapferer Brand Identity Prism · Aaker brand system (identity /
 > personality / associations / equity)

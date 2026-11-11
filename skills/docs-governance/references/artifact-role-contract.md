@@ -1,4 +1,4 @@
-# Documentation Artifact-Role Contract
+﻿# Documentation Artifact-Role Contract
 
 This contract defines how the documentation-governance router and read-only
 audit resolve project documentation. Roles describe ownership; the displayed

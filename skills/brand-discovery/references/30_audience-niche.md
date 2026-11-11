@@ -1,4 +1,4 @@
-# Module 30 — Audience & Niche
+﻿# Module 30 — Audience & Niche
 
 > **Frameworks:** Baker *The Business of Expertise* · Ideal Client Profile (ICP) ·
 > Pain / trigger / desired outcome lens
